@@ -1,6 +1,6 @@
 # baseConverter
 
-My first application I wrote in Go - very simple but has utility.
+My first Go Application - very simple but has utility.
 
 Accepts a decimal number as input and outputs the number in Binary, Octal and Hexidecimal.
 
